@@ -51,8 +51,14 @@ https://elynshoki.infinityfreeapp.com
 
 ## Screenshots
 
-Add screenshots here.
+### Homepage
+![Homepage](docs/screenshots/homepage.png)
 
+### Product Overview Page
+![Product Overview Page](docs/screenshots/product.png)
+
+### Contact Page
+![Contact Page](docs/screenshots/contact.png)
 ## Notes
 
 This repository contains the custom WordPress theme source code and documentation only. WordPress core files, plugins, uploads, database files, and sensitive configuration files are excluded.
