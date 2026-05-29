@@ -1,0 +1,20 @@
+.env
+*.log
+*.sql
+*.zip
+*.tar
+*.gz
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# WordPress sensitive/common exclusions
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/plugins/
+
+
+database.sql
+backup.zip
